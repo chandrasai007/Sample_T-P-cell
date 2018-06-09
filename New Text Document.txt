@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>login page</title>
+<head>
+<body>
+username:
+<input type="text" name="usnm">
+password:
+<input type="password" name="psd">
+submit
+<input type="text" name="submit">
+reset
+<input type="text" name="reset">
+</body>
+</html>
